@@ -1,4 +1,12 @@
-### Hi there 👋
+# Hi there! I'm Edwin 👋
+
+## About Me
+
+- 🏢 I'm an aspiring IT professional looking to become a Data Analyst -> Data Scientist.
+- 🏫 I love learning multiple languages, applications and life skills
+  - Currently, I'm learning to take the Google Data Analytics: Professional Certificate
+- How to reach me -> https://www.linkedin.com/in/edwinrlambert/
+
 
 <!--
 **edwinrlambert/edwinrlambert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
