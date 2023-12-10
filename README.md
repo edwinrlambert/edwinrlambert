@@ -8,11 +8,11 @@
 - How to reach me -> https://www.linkedin.com/in/edwinrlambert/
 
 ## My GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=edwinrlambert&show_icons=true&theme=&theme=dark#gh-dark-mode-only" width="50%" />
+<img src="https://github-readme-stats.vercel.app/api?username=edwinrlambert&show_icons=true&theme=&theme=dark#gh-dark-mode-only" width="100%" />
 <!--- ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=edwinrlambert&show_icons=true&theme=&theme=dark#gh-dark-mode-only) -->
 
 ## Languages and Tools:
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edwinrlambert&show_icons=true&layout=compact&theme=&theme=dark#gh-dark-mode-only" width="50%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edwinrlambert&show_icons=true&layout=compact&theme=&theme=dark#gh-dark-mode-only" width="100%" />
 <!--- [![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=edwinrlambert&layout=compact&theme=&theme=dark#gh-dark-mode-only)] -->
 
 ## Projects
