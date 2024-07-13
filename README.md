@@ -2,8 +2,8 @@
 
 ## About Me
 - 🧑‍💻 I'm an aspiring IT professional looking to become a **Data Analyst** -> **Data Scientist**.
-- 🏢 I'm working at **Cubic Transportation Systems** as a Customer Service Representative.
-- 🧑‍🎓 I'm a recent **Data Analyst graduate** from Douglas College, New Westminster.
+- 🏢 I'm working at **Intact Insurance**.
+- 🧑‍🎓 I'm a recent **Data Analyst** graduate from Douglas College, New Westminster.
 - 🏫 I love learning multiple languages, applications and life skills. Currently, I'm learning:
   - **CS50**'s Introduction to Computer Science
   - **Google Data Analytics**: Professional Certificate
